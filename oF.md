@@ -1,6 +1,3 @@
-memo
-====
-
 openFrameworks
 ==============
 
