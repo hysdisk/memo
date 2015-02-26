@@ -1,0 +1,47 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 141.3962120524, 43.0314845405 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150225T200802+0900",
+      "endTime" : "20150226T085553+0900",
+      "place" : {
+        "id" : 25666807,
+        "name" : "ホーム",
+        "type" : "home",
+        "location" : {
+          "lat" : 43.0314845405,
+          "lon" : 141.3962120524
+        }
+      },
+      "lastUpdate" : "20150226T022204Z",
+      "date" : "20150226"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 141.4774037646, 43.038700004 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20150226T094533+0900",
+      "endTime" : "20150226T100148+0900",
+      "place" : {
+        "id" : 150751361,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 43.038700004,
+          "lon" : 141.4774037646
+        }
+      },
+      "lastUpdate" : "20150226T022204Z",
+      "date" : "20150226"
+    }
+  } ]
+}
