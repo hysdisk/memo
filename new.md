@@ -1,28 +1,20 @@
-タイトル
-=======
+dotfiles
+========
 
-メモ1
------
+dotfiles
+--------
 
-* コードはどうやって書くんだっけ？
+* 1
+* 2
+* 3
 
-    ```cpp:hoge.cpp
-    void update(float deg)
-    {
-        deg++;
-    }
 
-    void set(ofVec2f position)
-    {
-        position.x = rr * cos(ofDegToRad(deg));
-        position.y = rr * sin(ofDegToRad(deg));
-    }
+```js:memo.cpp
+    void setup(){
+      if (i == 0){
+        memset(hoge,0x00,sizeof(hoge));      
+      }     
+    }   
 
-    ```
-
-メモ２
------
-
-1. markdown表記を手で覚えよう
-2. markdown表記を手で覚えよう
+```
 
